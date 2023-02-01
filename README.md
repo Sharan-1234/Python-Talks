@@ -1,6 +1,7 @@
 # Python Talk's
 
 •	Text to speech is a process to convert any text into voice.  
+
 •	Text to speech project takes words on COMPUTER and convert them into AUDIO. 
  
 “We are going to use multiple python modules to make our project more efficient and reliable”.   
@@ -13,18 +14,25 @@ The objective of this project is to convert the text into voice with the click o
 In this project, we add a message which we want to convert into voice and click on play button to play the voice of that text message.
 
 •	Importing the modules 
+
 •	Create the display window 
+
 •	Define functions 
  
 # About Modules : 
  
 •	Tkinter is a  GUI Python library that is one of the fastest ways to build GUI applications. 
+
 •	gTTS (Google Text-to-Speech) is used to convert text into audio. 
+
 •	Playsound module is used to play audio files. 
  
 # Features:  
-•	Text input: Users are provided with a text box where they can enter the required text. 
+
+•	Text input: Users are provided with a text box where they can enter the required text.
+
 •	Buttons: Users are provided three buttons “PLAY”,”EXIT”,”RESET”. 
+
 •	Audio file: The audio file will be saved to the computer folder , where user can play it anytime they want. 
 
 # Flow
