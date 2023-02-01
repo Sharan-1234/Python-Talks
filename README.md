@@ -8,7 +8,8 @@
 Modules to be used : 
 1.	Basic concepts of Python 
 2.	Tkinter 
-3.	Google Text-to-speech 4. Playsound. 
+3.	Google Text-to-speech 
+4. Playsound. 
  
 The objective of this project is to convert the text into voice with the click of a button. This project will be developed using Tkinter, gTTs, and playsound library. 
 In this project, we add a message which we want to convert into voice and click on play button to play the voice of that text message.
